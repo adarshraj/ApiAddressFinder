@@ -1,0 +1,11 @@
+Api Address Finder
+-------------------
+Api Address finder is created to obtain the api address resides in the corresponding dll file. First enter the .dll name then the api name and press the button. Don't forget that api names are case sensitive.
+
+For example, the address of ExitProcess() resides in kernel32.dll in my system is 
+
+dll name : kernel32.dll
+api name : ExitProcess
+address  : 7C81CAA2
+
+Lahar
